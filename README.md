@@ -1,5 +1,26 @@
-# FreeCADLink_VertUI
+# VertUI for FreeCAD Link
 Vertical UI Setup for FreeCAD Link aka FreeCAD Linkstage3
 
-![sc 2021-07-19 18_56_37](https://user-images.githubusercontent.com/70055734/148979802-05ba206f-9fcd-44f0-8dda-d43d4999b833.jpg)
+# Installation:
+Watch the installation procedure here:
+https://youtu.be/1uMzNe8KwAw
+
+OR
+
+- Download the repo by clicking the green "Code" button and selecting "Download ZIP"
+- Extract the ZIP
+- Copy the "Gui" folder to your User/FreeCAD folder:
+  - %APPDATA%/FreeCAD on Windows (or C:\Users\[USER]\AppData\Roaming\FreeCAD)
+  - /home/USER/.FreeCAD on Linux
+- Run FreeCAD Link
+- Tools -> Edit Parameters
+- Merge -> From File
+- Select VertUI.FCParam
+- Repeat that last 3 steps again*
+
+*Loading parameters is still experimental. There are issues that can be fixed by simply re-merging VertUI.FCParam.
+I have purposely avoided making a preset configuration, because I found it to be very inconsistent.
+
+# Screenshots
+![FIhuySJXsAkn46m](https://user-images.githubusercontent.com/70055734/148981429-52ed2d5a-4cbc-499a-b950-840fe178a066.jpg)
 
