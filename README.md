@@ -31,3 +31,5 @@ I have purposely avoided making a preset configuration, because I found it to be
 # Screenshots
 ![FIhuySJXsAkn46m](https://user-images.githubusercontent.com/70055734/148981429-52ed2d5a-4cbc-499a-b950-840fe178a066.jpg)
 
+# License
+https://github.com/StudioPetrikas/FreeCADLink_VertUI/blob/main/LICENSE
