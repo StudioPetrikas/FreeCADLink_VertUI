@@ -18,7 +18,7 @@ https://youtu.be/1uMzNe8KwAw
 - Extract the ZIP
 - Copy the "Gui" folder to your User/FreeCAD folder:
   - %APPDATA%/FreeCAD on Windows (or C:\Users\[USER]\AppData\Roaming\FreeCAD)
-  - ~/.FreeCAD on Linux (or /home/USER/.FreeCAD) or (~/.config/FreeCAD)
+  - ~/.FreeCAD on Linux (or /home/USER/.FreeCAD) or (/home/USER/.config/FreeCAD)
 - Run FreeCAD Link
 - Tools -> Edit Parameters
 - Merge -> From File
