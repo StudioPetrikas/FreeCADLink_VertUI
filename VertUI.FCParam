@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FCParameters>
+
+  <FCParamGroup Name="Root">
+    <FCParamGroup Name="BaseApp">
+      <FCParamGroup Name="Preferences">
+        <FCParamGroup Name="MainWindow">
+          <FCText Name="StyleSheet">ProDark VertUI.qss</FCText>
+          <FCText Name="MainWindowState">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AFAAYQB0AHQAZQByAG4AcwIAAAAA/////wAAAAAAAAAAAAAAIgBJAG4AdgBlAG4AdABvAHIALQBTAHUAcgBmAGEAYwBlAHMCAAAAAP////8AAAAAAAAAAAAAACAASQBuAHYAZQBuAHQAbwByAC0AUABsAGEAcwB0AGkAYwIAAAAA/////wAAAAAAAAAAAAAAKABJAG4AdgBlAG4AdABvAHIALQBTAGgAZQBlAHQALQBNAGUAdABhAGwCAAAAAP////8AAAAAAAAAAAAAABAAQQBzAHMAZQBtAGIAbAB5AgAAAAD/////AAAAAAAAAAAAAAAMAEMAdQBzAHQAbwBtAgAAAAD/////AAAAAAAAAAAAAAAOAEMAdQBzAHQAbwBtADECAAAAAP////8AAAAAAAAAAAAAAAwATQBhAGMAcgBvAHMCAAAAAP////8AAAAAAAAAAAAAAAgAVABhAGIAcwIAAAAA/////wAAAAAAAAAAAAAAHgBQAGUAdAByAGkAawBhAHMAIABNAGEAYwByAG8AcwIAAAAA/////wAAAAAAAAAAAAAAEABNAHkAIABUAG8AbwBsAHMCAAAAAP////8AAAAAAAAAAAAAACIARABlAGYAZQBhAHQAdQByAGkAbgBnACAAVABvAG8AbABzAgAAAAD/////AAAAAAAAAAAAAAAWAEYAdQB6AHoAeQAgAFQAbwBvAGwAcwIAAACM/////wAAAAAAAAAAAAAALgBDAHUAcwB0AG8AbQBfAEcAbABvAGIAYQBsAF8AQwB1AHMAdABvAG0AMAAwADECAAAAAP////8AAAAAAAAAAAAAABYARgBTACAAQwBvAG0AbQBhAG4AZABzAgAAAGn/////AAAAAAAAAAAAAAASAEYAUwAgAFMAYwByAGUAdwBzAgAAAaT/////AAAAAAAAAAAAAAAOAEIAbABlAG4AZABlAHICAAAAaf////8AAAAAAAAAAAAAAC4AQwB1AHMAdABvAG0AXwBHAGwAbwBiAGEAbABfAEMAdQBzAHQAbwBtADAAMAAyAgAAAAD/////AAAAAAAAAAAAAAASAFQAZQBzAHQAVABvAG8AbABzAgAAAAD/////AAAAAAAAAAAAAAAiAE0AYQBuAGkAcAB1AGwAYQB0AG8AcgAgAFQAbwBvAGwAcwIAAAAA/////wAAAAAAAAAAAAAAFgBEAGEAdAB1AG0AIABUAG8AbwBsAHMCAAAAjP////8AAAAAAAAAAAAAABAAUwB1AHIAZgBhAGMAZQBzAgAAAAD/////AAAAAAAAAAAAAAAKAE0AaQBzAGMALgIAAAHq/////wAAAAAAAAAAAAAAGABBAHIAYwBoACAAdABvAG8AbABzACAAMQIAAAAA/////wAAAAAAAAAAAAAAAQAAAAQAAAAoAEQAcgBhAGYAdAAgAGMAcgBlAGEAdABpAG8AbgAgAHQAbwBvAGwAcwIAAAAA/////wAAAAAAAAAAAAAALABEAHIAYQBmAHQAIABhAG4AbgBvAHQAYQB0AGkAbwBuACAAdABvAG8AbABzAgAAAcf/////AAAAAAAAAAAAAAAmAEQAcgBhAGYAdAAgAHUAdABpAGwAaQB0AHkAIAB0AG8AbwBsAHMCAAACUwAABNEAAAAAAAAAAAAAABgAQQByAGMAaAAgAHQAbwBvAGwAcwAgADICAAACUwAAASYAAAAAAAAAAAAAAAEAAAABAAAADABDAHUAcgB2AGUAcwIAAAAA/////wAAAAAAAAAAAAAAAQAAAAIAAAAoAFAAYQByAHQAIABEAGUAcwBpAGcAbgAgAE0AbwBkAGUAbABpAG4AZwMAAAAA/////wAAAAAAAAAAAAAAIgBQAGEAcgB0ACAARABlAHMAaQBnAG4AIABFAHgAdAByAGEDAAAB1QAABeoAAAAAAAAAAAAAAAIAAAAIAAAACABGAGkAbABlAAAAAAD/////AAAAAAAAAAAAAAASAFcAbwByAGsAYgBlAG4AYwBoAQAAAAD/////AAAAAAAAAAAAAAAKAE0AYQBjAHIAbwAAAAJb/////wAAAAAAAAAAAAAACABWAGkAZQB3AAAAAtv/////AAAAAAAAAAAAAAASAFMAdAByAHUAYwB0AHUAcgBlAAAABGn/////AAAAAAAAAAAAAAAUAE4AYQB2AGkAZwBhAHQAaQBvAG4AAAAFLP////8AAAAAAAAAAAAAACIAZAByAGEAZgB0AF8AcwBuAGEAcABfAHcAaQBkAGcAZQB0AAAAAAD/////AAAAAAAAAAAAAAAyAGQAcgBhAGYAdABfAHMAdABhAHQAdQBzAF8AcwBjAGEAbABlAF8AdwBpAGQAZwBlAHQAAAAAAP////8AAAAAAAAAAA==</FCText>
+          <FCText Name="GlobalToolBarArea">Left</FCText>
+          <FCText Name="DefaultToolBarArea">Right</FCText>
+          <FCText Name="OverlayActiveStyleSheet">Dark-Outline-VUI.qss</FCText>
+          <FCBool Name="StatusBar" Value="1"/>
+        </FCParamGroup>
+        <FCParamGroup Name="OutputWindow">
+          <FCUInt Name="colorText" Value="3570717951"/>
+          <FCUInt Name="colorError" Value="4278191359"/>
+          <FCUInt Name="colorLogging" Value="1437270015"/>
+          <FCUInt Name="colorWarning" Value="4252787455"/>
+        </FCParamGroup>
+        <FCParamGroup Name="General">
+          <FCInt Name="ToolbarIconSize" Value="24"/>
+        </FCParamGroup>
+        <FCParamGroup Name="Editor">
+          <FCText Name="Font">MS Shell Dlg 2</FCText>
+          <FCUInt Name="Text" Value="2477238784"/>
+          <FCUInt Name="Number" Value="4294967040"/>
+          <FCUInt Name="String" Value="1000781312"/>
+          <FCUInt Name="Comment" Value="1936945920"/>
+          <FCUInt Name="Keyword" Value="1081450496"/>
+          <FCUInt Name="Bookmark" Value="16776960"/>
+          <FCUInt Name="Operator" Value="4294967040"/>
+          <FCUInt Name="Character" Value="4278190080"/>
+          <FCUInt Name="Breakpoint" Value="4278190080"/>
+          <FCUInt Name="Class name" Value="1321840640"/>
+          <FCUInt Name="Define name" Value="3703857920"/>
+          <FCUInt Name="Python error" Value="4252787200"/>
+          <FCUInt Name="Block comment" Value="1936945920"/>
+          <FCUInt Name="Python output" Value="2863311360"/>
+          <FCUInt Name="Current line highlight" Value="707406336"/>
+        </FCParamGroup>
+        <FCParamGroup Name="View">
+          <FCBool Name="Simple" Value="1"/>
+          <FCBool Name="Gradient" Value="0"/>
+          <FCBool Name="ShowAxisCross" Value="0"/>
+          <FCBool Name="DockOverlayAutoView" Value="1"/>
+          <FCBool Name="DockOverlayHideTabBar" Value="1"/>
+          <FCBool Name="DockOverlayHintTabBar" Value="0"/>
+          <FCBool Name="UseBackgroundColorMid" Value="0"/>
+          <FCBool Name="DockOverlayMouseThrough" Value="0"/>
+          <FCBool Name="DockOverlayCheckNaviCube" Value="1"/>
+          <FCBool Name="DockOverlayHideScrollBar" Value="1"/>
+          <FCBool Name="DockOverlayActivateOnHover" Value="1"/>
+          <FCBool Name="DockOverlayAutoMouseThrough" Value="1"/>
+          <FCUInt Name="FrozenColor" Value="2147483647"/>
+          <FCUInt Name="MissingColor" Value="2130771967"/>
+          <FCUInt Name="DetachedColor" Value="478092543"/>
+          <FCUInt Name="ExternalColor" Value="3425924095"/>
+          <FCUInt Name="HighlightColor" Value="1777926143"/>
+          <FCUInt Name="SelectionColor" Value="12306687"/>
+          <FCUInt Name="BackgroundColor" Value="1010580735"/>
+          <FCUInt Name="CreateLineColor" Value="2189591295"/>
+          <FCUInt Name="CursorTextColor" Value="1437270015"/>
+          <FCUInt Name="EditedEdgeColor" Value="4038425343"/>
+          <FCUInt Name="HiddenLineColor" Value="0"/>
+          <FCUInt Name="SketchEdgeColor" Value="911964415"/>
+          <FCUInt Name="BackgroundColor2" Value="859006463"/>
+          <FCUInt Name="BackgroundColor3" Value="2543299327"/>
+          <FCUInt Name="BackgroundColor4" Value="1869583359"/>
+          <FCUInt Name="BoundingBoxColor" Value="4294967295"/>
+          <FCUInt Name="ConstructionColor" Value="2187940095"/>
+          <FCUInt Name="DefaultShapeColor" Value="1836417023"/>
+          <FCUInt Name="EditedVertexColor" Value="4034923007"/>
+          <FCUInt Name="ShadowGroundColor" Value="2105376000"/>
+          <FCUInt Name="SketchVertexColor" Value="2521630207"/>
+          <FCUInt Name="InvalidSketchColor" Value="4278190335"/>
+          <FCUInt Name="AnnotationTextColor" Value="3823363071"/>
+          <FCUInt Name="ConstrainedDimColor" Value="252645375"/>
+          <FCUInt Name="ConstrainedIcoColor" Value="3368601855"/>
+          <FCUInt Name="HiddenLineFaceColor" Value="4294967040"/>
+          <FCUInt Name="CursorCrosshairColor" Value="4294967295"/>
+          <FCUInt Name="HiddenLineBackground" Value="4294967040"/>
+          <FCUInt Name="DefaultShapeLineColor" Value="255"/>
+          <FCUInt Name="FullyConstrainedColor" Value="2377959679"/>
+          <FCUInt Name="DefaultShapeVertexColor" Value="421075455"/>
+          <FCUInt Name="ExprBasedConstrDimColor" Value="4286523135"/>
+          <FCUInt Name="InternalAlignedGeoColor" Value="2998042623"/>
+          <FCUInt Name="NonDrivingConstrDimColor" Value="11206655"/>
+          <FCUInt Name="DeactivatedConstrDimColor" Value="3537168127"/>
+          <FCUInt Name="FullyConstraintElementColor" Value="2377959679"/>
+          <FCUInt Name="FullyConstraintConstructionPointColor" Value="4287987967"/>
+          <FCUInt Name="FullyConstraintInternalAlignmentColor" Value="3739142399"/>
+          <FCUInt Name="FullyConstraintConstructionElementColor" Value="978212351"/>
+        </FCParamGroup>
+        <FCParamGroup Name="DockWindows">
+          <FCParamGroup Name="TreeView">
+            <FCBool Name="Enabled" Value="1"/>
+          </FCParamGroup>
+          <FCParamGroup Name="PropertyView">
+            <FCBool Name="Enabled" Value="1"/>
+          </FCParamGroup>
+          <FCParamGroup Name="DAGView">
+            <FCBool Name="Enabled" Value="0"/>
+          </FCParamGroup>
+          <FCParamGroup Name="ComboView">
+            <FCBool Name="Enabled" Value="0"/>
+          </FCParamGroup>
+          <FCParamGroup Name="TaskWatcher">
+            <FCBool Name="Enabled" Value="1"/>
+          </FCParamGroup>
+        </FCParamGroup>
+        <FCParamGroup Name="TreeView">
+          <FCBool Name="HideScrollBar" Value="1"/>
+          <FCBool Name="HideHeaderView" Value="1"/>
+          <FCUInt Name="TreeEditColor" Value="1431655935"/>
+          <FCUInt Name="ItemBackground" Value="0"/>
+          <FCUInt Name="TreeActiveColor" Value="252645887"/>
+        </FCParamGroup>
+      </FCParamGroup>
+      <FCParamGroup Name="MainWindow">
+        <FCParamGroup Name="StatusBar">
+          <FCBool Name="SB_ActionLabel" Value="1"/>
+          <FCBool Name="SB_ProgressBar" Value="0"/>
+          <FCBool Name="NavigationIndicator" Value="0"/>
+          <FCBool Name="SB_DimensionLabel" Value="1"/>
+          <FCInt Name="Measure" Value="0"/>
+          <FCInt Name="Draft tray" Value="1"/>
+          <FCInt Name="Draft Snap" Value="2"/>
+        </FCParamGroup>
+        <FCParamGroup Name="DockWindows">
+          <FCParamGroup Name="OverlayLeft">
+            <FCText Name="Widgets">Tree view,Property view,</FCText>
+            <FCText Name="Sizes">684,600</FCText>
+            <FCBool Name="Transparent" Value="1"/>
+            <FCInt Name="Width" Value="315"/>
+            <FCInt Name="Height" Value="1854"/>
+          </FCParamGroup>
+          <FCParamGroup Name="OverlayRight">
+            <FCText Name="Widgets"></FCText>
+            <FCText Name="Sizes">1159</FCText>
+            <FCText Name="AutoSizes">1196,500</FCText>
+            <FCBool Name="Transparent" Value="1"/>
+            <FCBool Name="AutoHide" Value="0"/>
+            <FCBool Name="EditShow" Value="0"/>
+            <FCBool Name="EditHide" Value="0"/>
+            <FCBool Name="TaskShow" Value="1"/>
+            <FCInt Name="Width" Value="359"/>
+            <FCInt Name="Height" Value="1712"/>
+          </FCParamGroup>
+          <FCParamGroup Name="OverlayTop">
+            <FCBool Name="Transparent" Value="0"/>
+            <FCInt Name="Width" Value="1174"/>
+            <FCInt Name="Height" Value="90"/>
+          </FCParamGroup>
+          <FCParamGroup Name="OverlayBottom">
+            <FCText Name="Widgets">Report view,Python console,</FCText>
+            <FCText Name="Sizes">1845,1846</FCText>
+            <FCBool Name="AutoHide" Value="0"/>
+            <FCBool Name="EditShow" Value="0"/>
+            <FCBool Name="EditHide" Value="0"/>
+            <FCBool Name="TaskShow" Value="0"/>
+            <FCBool Name="Transparent" Value="1"/>
+            <FCInt Name="Width" Value="1838"/>
+            <FCInt Name="Height" Value="97"/>
+          </FCParamGroup>
+          <FCBool Name="Std_ReportView" Value="1"/>
+          <FCBool Name="Std_SelectionView" Value="0"/>
+          <FCBool Name="Std_ComboView" Value="0"/>
+          <FCBool Name="Std_PythonView" Value="1"/>
+          <FCBool Name="Std_TreeView" Value="1"/>
+          <FCBool Name="Std_PropertyView" Value="1"/>
+          <FCBool Name="" Value="0"/>
+        </FCParamGroup>
+        <FCParamGroup Name="Toolbars">
+          <FCBool Name="File" Value="0"/>
+          <FCBool Name="View" Value="0"/>
+          <FCBool Name="Macro" Value="0"/>
+          <FCBool Name="Structure" Value="0"/>
+          <FCBool Name="Navigation" Value="0"/>
+          <FCBool Name="Measure" Value="1"/>
+          <FCBool Name="Draft Snap" Value="1"/>
+          <FCBool Name="Draft tray" Value="1"/>
+        </FCParamGroup>
+      </FCParamGroup>
+      <FCParamGroup Name="Workbench">
+        <FCParamGroup Name="Global">
+          <FCParamGroup Name="Toolbar">
+            <FCParamGroup Name="Custom001">
+              <FCText Name="Name">Views</FCText>
+              <FCText Name="Std_ViewTop">FreeCAD</FCText>
+              <FCText Name="Std_ViewRear">FreeCAD</FCText>
+              <FCText Name="Std_ViewRight">FreeCAD</FCText>
+              <FCText Name="Std_ViewIsometric">FreeCAD</FCText>
+              <FCText Name="Std_ViewBottom">FreeCAD</FCText>
+              <FCText Name="Std_ViewFitAll">FreeCAD</FCText>
+              <FCText Name="Std_ViewLeft">FreeCAD</FCText>
+              <FCText Name="Std_ViewFront">FreeCAD</FCText>
+              <FCBool Name="Active" Value="0"/>
+            </FCParamGroup>
+            <FCParamGroup Name="Custom002">
+              <FCText Name="Name">Workbenches</FCText>
+              <FCText Name="Std_Workbench_PartDesignWorkbench">FreeCAD</FCText>
+              <FCText Name="Std_Workbench_SketcherWorkbench">FreeCAD</FCText>
+              <FCText Name="Std_Workbench_Assembly3Workbench">FreeCAD</FCText>
+              <FCText Name="Std_Workbench_PetrikasMacros">FreeCAD</FCText>
+              <FCText Name="Std_Workbench_DefeaturingWB">FreeCAD</FCText>
+              <FCText Name="Std_Workbench_TechDrawWorkbench">FreeCAD</FCText>
+              <FCBool Name="Active" Value="0"/>
+            </FCParamGroup>
+          </FCParamGroup>
+        </FCParamGroup>
+      </FCParamGroup>
+      <FCParamGroup Name="Workbenches">
+        <FCBool Name="ShowTabBar" Value="1"/>
+        <FCBool Name="TabBarShowText" Value="1"/>
+      </FCParamGroup>
+    </FCParamGroup>
+  </FCParamGroup>
+
+</FCParameters>
