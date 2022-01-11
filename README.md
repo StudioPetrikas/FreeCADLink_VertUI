@@ -1,11 +1,18 @@
 # VertUI for FreeCAD Link
 Vertical UI Setup for FreeCAD Link aka FreeCAD Linkstage3
 
+https://github.com/StudioPetrikas/FreeCADLink_VertUI
+
+
 # Installation:
+Please backup your User/FreeCAD folder first. Or backup the parameters file by opening FreeCAD, going Tools -> Edit Parameters and clicking "Export"
+
+**VIDEO**
+
 Watch the installation procedure here:
 https://youtu.be/1uMzNe8KwAw
 
-OR
+**TEXT**
 
 - Download the repo by clicking the green "Code" button and selecting "Download ZIP"
 - Extract the ZIP
