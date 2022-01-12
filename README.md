@@ -17,7 +17,7 @@ Please backup your User/FreeCAD folder first. Or backup the parameters file by o
 
 #### Video instruction
 
-Watch the installation procedure via YT
+Watch the installation procedure via clip  
 [![VerticalUI Version 2](https://img.youtube.com/vi/1uMzNe8KwAw/0.jpg)](https://youtu.be/1uMzNe8KwAw "VertUI v2")
 
 #### Text instruction
