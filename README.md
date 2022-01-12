@@ -36,7 +36,8 @@ Watch the installation procedure via clip
 * Repeat that last 3 steps again (see note below)
 
 **Important note**: Loading parameters is still experimental. There are issues that can be fixed by simply re-merging `VertUI.FCParam` multiple times.  
-I have purposely avoided making a preset configuration, because I found it to be very inconsistent.
+
+I also have purposely avoided making a preset configuration, because I found it to be very inconsistent.
 
 ### Screenshots
 
