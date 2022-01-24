@@ -728,6 +728,10 @@ QDialog#Gui__Dialog__DlgPreferences > QListView::item:selected { /* Preference l
     background-color: #557BB6;
 }
 
+Gui--Dialog--DlgSettingsLazyLoadedImp > QTableWidget {
+    background-color: #333333;
+}
+
 /*==================================================================================================
 Tab bar buttons
 ==================================================================================================*/
