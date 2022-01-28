@@ -116,6 +116,11 @@
           <FCUInt Name="ItemBackground" Value="0"/>
           <FCUInt Name="TreeActiveColor" Value="252645887"/>
         </FCParamGroup>
+        <FCParamGroup Name="Mod">
+          <FCParamGroup Name="Start">
+            <FCUInt Name="BackgroundColor1" Value="1010580735"/>
+          </FCParamGroup>
+        </FCParamGroup>
       </FCParamGroup>
       <FCParamGroup Name="MainWindow">
         <FCParamGroup Name="StatusBar">
