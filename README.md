@@ -28,7 +28,8 @@ Watch the installation procedure via clip
     * Extract the ZIP
 * Copy the `Gui` folder to your `User/FreeCAD` folder:
   * **Windows**: `%APPDATA%/FreeCAD` or `C:\Users\[USER]\AppData\Roaming\FreeCAD`
-  * **Linux**/**macOS**: `~/.FreeCAD` or `/home/USER/.FreeCAD` or `/home/USER/.config/FreeCAD`
+  * **Linux**: `~/.FreeCAD` or `/home/USER/.FreeCAD` or `/home/USER/.config/FreeCAD`
+  * **macOS** `~/Library/Preferences/FreeCAD`
 * Run FreeCAD Link
 * Go to `Tools` > `Edit Parameters`
 * Press `Merge` button > `From File`
