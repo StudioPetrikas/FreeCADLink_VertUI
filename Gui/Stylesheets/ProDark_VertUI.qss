@@ -590,7 +590,6 @@ QTabBar::tab {
     border: 1px solid transparent;
     padding: 3px 12px;
 }
-
 Gui--WorkbenchTabBar { /* VertUI */
     qproperty-iconSize: 24px;
     max-height: 36px;
@@ -602,13 +601,32 @@ Gui--WorkbenchTabBar > QTabBar::tab { /* VertUI */
     padding-right: 12px;
     padding-top: 5px;
     padding-bottom: 3px;
-
+}    
+Gui--WorkbenchTabWidget > QTabBar::tab { /* VertUI */
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 5px;
+    padding-bottom: 3px;
 }
 Gui--WorkbenchTabBar > QTabBar::tab:selected { /* VertUI */
     background-color: #3c3c3c; /* was transparent */
 }
 Gui--WorkbenchTabBar > QTabBar::tab:!selected { /* VertUI */
     background-color: #2A2A2A; /* was transparent */
+}
+Gui--WorkbenchTabWidget > QTabBar::tab:selected { /* VertUI */
+    background-color: #3c3c3c; /* was transparent */ 
+}
+Gui--WorkbenchTabWidget > QTabBar::tab:!selected { /* VertUI */
+    background-color: #2A2A2A; /* was transparent */
+}
+Gui--WorkbenchTabWidget {
+    max-height: 36px;
+}
+Gui--WorkbenchTabBar { 
+    qproperty-tabSize: 22;
 }
 QMdiArea > QTabBar::tab:selected { /* VertUI */
     border-bottom: 4px solid #557BB6; /* selection color */
