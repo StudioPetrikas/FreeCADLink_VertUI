@@ -121,6 +121,11 @@
             <FCUInt Name="BackgroundColor1" Value="1010580735"/>
           </FCParamGroup>
         </FCParamGroup>
+        <FCParamGroup Name="Workbenches">
+          <FCBool Name="ShowTabBar" Value="1"/>
+          <FCBool Name="TabBarShowText" Value="1"/>
+        </FCParamGroup>
+      </FCParamGroup>
       </FCParamGroup>
       <FCParamGroup Name="MainWindow">
         <FCParamGroup Name="StatusBar">
