@@ -126,7 +126,6 @@
           <FCBool Name="TabBarShowText" Value="1"/>
         </FCParamGroup>
       </FCParamGroup>
-      </FCParamGroup>
       <FCParamGroup Name="MainWindow">
         <FCParamGroup Name="StatusBar">
           <FCBool Name="SB_ActionLabel" Value="1"/>
